@@ -141,7 +141,7 @@ export default function App() {
         
         ( gameStart && !showRanking ? (
           <div className="main">
-            {tenzies && <Confetti />}
+            {tenzies && <Confetti id="confetti" />}
             <Instructions />
             <button 
                 className="btn" 
