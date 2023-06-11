@@ -28,6 +28,10 @@ body {
     margin: 0 auto;
 }
 
+#confetti{
+    width:100;
+}
+
 #home-ranking,
 #home-tenzies{
     background-color: #5035FF;
